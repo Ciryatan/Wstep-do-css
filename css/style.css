@@ -1,0 +1,37 @@
+body {
+	background-color:#222;
+	color: white;
+	text-align: center;
+	font-family: "lato" sans-serif;
+}
+
+section {
+	background-color: white;
+	color: black;
+    display: block;
+    position: relative; 
+   	width: 100%;
+	text-align: center;
+}
+
+h1 {
+	position: absolute;
+   top:50%; 
+   left: 0; 
+   width: 100%; 
+	font-size: 60px;
+}
+
+section {
+	text-align: center;
+}
+
+imgg {
+	position: fixed; /* or absolute */
+  top: 50%;
+  left: 50%;
+}
+
+html {
+	background-color: white;
+}
